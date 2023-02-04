@@ -3,7 +3,7 @@
             Aquí hemos diseñado el color de los encabezados
             */
             h1, h2, h3 {
-                color: orange;
+                color: rgb(246, 169, 26);
                 background-color: blue;
                 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
             }
