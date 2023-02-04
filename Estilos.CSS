@@ -2,8 +2,11 @@
           /*
             Aquí hemos diseñado el color de los encabezados
             */
-            h1, h2 {
+            h1, h2, h3 {
                 color: orange;
                 background-color: blue;
                 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            body {
+              background-image: url(https://img.freepik.com/vector-premium/fondo-vector-blanco-3d-abstracto-elementos-geometricos-capa-papel-degradado-blanco-gris-presentacion-diseno-web-corporativo-comercial-fondo-blanco-moderno-ilustracion-vectorial_156943-1067.jpg)
             }
