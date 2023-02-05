@@ -4,11 +4,14 @@
             */
             h1{
                font-size: 40pt;
+               color: rgb(235, 234, 230);
+               background-color: rgb(0, 0, 0);
+               font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
             }
-            h1, h2, h3 {
-                color: rgb(235, 234, 230);
+            h2, h3 {
+                color: rgb(218, 76, 107);
                 background-color: rgb(0, 0, 0);
-                font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+                font-family:Verdana, Geneva, Tahoma, sans-serif
             }
             body { 
               background-color:rgb(243, 147, 158);
