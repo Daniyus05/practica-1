@@ -1,6 +1,6 @@
 
           /*
-            Aquí hemos diseñado el color de los encabezados
+            Aquí hemos diseñado el color de los encabezados y del cuerpo
             */
             h1{
                font-size: 40pt;
@@ -14,7 +14,7 @@
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
             }
             body { 
-              background-color:rgb(255, 144, 144);
+                background-color:rgb(255, 144, 144);
             }
              
               
