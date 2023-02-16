@@ -18,7 +18,18 @@
             }
              
             a:link {
-                background-color: gold;
-                color: green;
+                background-color:beige;
+                color:blue;
               }
-                
+
+            a:hover¨ {
+                color:blueviolet
+            }
+            
+            a:visited {
+                color:darkslategrey
+            }
+
+            a:active {
+                color:darkgoldenrod
+            }
