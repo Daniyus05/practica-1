@@ -17,4 +17,8 @@
                 background-color:rgb(255, 144, 144);
             }
              
-              
+            a:link {
+                background-color: gold;
+                color: green;
+              }
+                
